@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @JoshuaDRoca
-- 👀 I’m interested in ... Starting Beginner Projects
-- 🌱 I’m currently learning ... Basic Data Structures and Algorithms
 - 📫 How to reach me ... joshuaroca@clayton.edu !
 
 <!---
